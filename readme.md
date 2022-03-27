@@ -1,0 +1,1 @@
+#### Adapter example Json to XML
